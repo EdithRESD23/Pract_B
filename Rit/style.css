@@ -1,0 +1,40 @@
+.img {
+    width: 10%; 
+    height:10%
+}
+
+.form {
+ 
+    padding: 100px;
+}
+
+#navbar2 {
+    position: absolute;
+    display: flex;
+}
+img{
+    display: block;
+    margin: auto;   
+}
+
+#list{
+    /*padding-right: 150%;*/
+    text-align: right;
+    padding-left: 50%;
+    justify-content: right;
+}
+.list-group-item-action {
+    width: 50%;
+    color: #495057;
+    text-align: center;
+    justify-content: right;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+
+    }
